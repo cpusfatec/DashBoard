@@ -15,6 +15,9 @@ ________________________________________________________________________________
 #### :mortar_board: Higor dos Santos Mariano - Scrum Master
 - [Linkedin](https://www.linkedin.com/in/higor-mariano-5587b81b8/) | [Guithub](https://github.com/Higor-SM) | Email: higor.mariano@fatec.sp.gov.br
 
+#### :mortar_board: Ana Christina Ferreira - Time de Desenvolvimento
+- [Linkedin]() | [Guithub](https://github.com/AnaChristina) | Email: ana.silva1998@fatec.sp.gov.br
+
 #### :mortar_board: Felippe de Lima Luna - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5/) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.br
 
@@ -23,3 +26,4 @@ ________________________________________________________________________________
 
 #### :mortar_board: Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/caio-sendreto-0736311a2/) | [Guithub](https://github.com/Sendreto9116) | Email: caio.sendreto@fatec.sp.gov.br
+
