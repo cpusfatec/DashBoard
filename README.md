@@ -13,10 +13,17 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Metodologia 📂:
-SCRUM
+[SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# 
+# ## Cronograma e Sprints 
+Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
+- [x] Sprint 0 -  - [_ver detalhes..._]()
+- [x] Sprint 1 -  - [_ver detalhes..._]()
+- [x] Sprint 2 -  - [_ver detalhes..._]()
+- [x] Sprint 3 -  - [_ver detalhes..._]()
+- [x] Apresentação Final - 
+- [x] Feira de Soluções - 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ## Equipe
 
