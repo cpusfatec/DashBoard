@@ -16,7 +16,7 @@ ________________________________________________________________________________
 [SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Cronograma e Sprints 
+# Cronograma e Sprints :
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [ ] Sprint 0 - 08/03/2021 a 20/03/2021 - [_ver detalhes..._]()
 - [ ] Sprint 1 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._]()
@@ -26,12 +26,13 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Feira de Soluções - 14/06/2021 a 18/06/2021
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Backlog
-___________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas utilizadas:
-p
+
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Equipe
+# Backlog :
+![](https://github.com/cpusfatec/CRUD/blob/main/PRODUCKT%20BACKLOG/BACKLOG%20TOTAL.png)
+___________________________________________________________________________________________________________________________________________________________________________________
+# Equipe :
 
 #### :mortar_board: Rafael Pinto Cajé - Product Owner
 - [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b/) | [Guithub](https://github.com/Rafael-Caje) | 📧: rafael.caje@fatec.sp.gov.br
