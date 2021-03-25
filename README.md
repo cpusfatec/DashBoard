@@ -25,6 +25,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Apresentação Final - 07/06/2021 a 11/06/2021
 - [ ] Feira de Soluções - 14/06/2021 a 18/06/2021
 
+![](https://github.com/cpusfatec/CRUD/blob/main/STORY%20CARDS/Story%20Cards.jpg)
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas utilizadas:
 
