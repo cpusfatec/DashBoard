@@ -29,6 +29,8 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 ![](https://github.com/cpusfatec/CRUD/blob/main/STORY%20CARDS/Story%20Cards.jpg)
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas utilizadas:
+HTML, CSS, JavaScript
+Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Backlog :
