@@ -27,6 +27,8 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/STORY%20CARDS/Story%20Cards.jpg)
+_CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto.
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas utilizadas:
 HTML, CSS, JavaScript
