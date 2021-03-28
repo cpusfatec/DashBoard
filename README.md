@@ -2,7 +2,13 @@
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/GSW%20-%20Logo1.png) "GSW é uma empresa especializada em gerar soluções para o gerenciamento e controle de processos e negócios. Referência no desenvolvimento de soluções em Tecnologia da Informação, oferece a seus clientes sistemas de TI que se traduzem em melhorias significativas para o dia a dia do negócio, principalmente no que se refere à redução de custos e ao aumento da produtividade."
 ___________________________________________________________________________________________________________________________________________________________________________________
 # O Projeto 🖥️:
-Criação de um dashboard com informações resumidas dos andamentos dos projetos
+Criação de um dashboard com informações resumidas dos andamentos dos projetos. 
+
+### GIF do progresso do Projeto:
+
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif)link: http://cpu.rf.gd/json/
+
+_Para saber mais sobre o progresso, acesse as Sprints !_
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
 Nos deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
@@ -48,6 +54,7 @@ ________________________________________________________________________________
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown do projeto até o presente momento:
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BURNDOWN%20SPRINT%201.png)
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe :
 
