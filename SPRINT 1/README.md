@@ -5,3 +5,7 @@ Primeira sprint, tivemos contato com o representante da GSW que nos apresentou a
 Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é ativada ao digitar no campo de pesquisa, a função filtra os arquivos com a palavra chave escrita nesse campo e exibe as informações em um formato de tabela e criar os wireframes.
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/BACKLOG%20SPRINT%201.png)
+
+# Wireframes:
+
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
