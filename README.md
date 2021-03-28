@@ -1,4 +1,4 @@
-# GRUPO 3 - PROJETO PARA GSW
+# GRUPO 3 - PROJETO PARA A EMPRESA GSW
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/GSW%20-%20Logo1.png) "GSW é uma empresa especializada em gerar soluções para o gerenciamento e controle de processos e negócios. Referência no desenvolvimento de soluções em Tecnologia da Informação, oferece a seus clientes sistemas de TI que se traduzem em melhorias significativas para o dia a dia do negócio, principalmente no que se refere à redução de custos e ao aumento da produtividade."
 ___________________________________________________________________________________________________________________________________________________________________________________
 # O Projeto 🖥️:
