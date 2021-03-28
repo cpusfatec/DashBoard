@@ -26,7 +26,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Feira de Soluções - 14/06/2021 a 18/06/2021
 
 
-![](https://github.com/cpusfatec/CRUD/blob/main/STORY%20CARDS/Story%20Cards.jpg)
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/Story%20Cards.jpg)
 
 _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto_
 
@@ -39,7 +39,7 @@ Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://vi
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Backlog :
-![](https://github.com/cpusfatec/CRUD/blob/main/PRODUCKT%20BACKLOG/BACKLOG%20TOTAL.png)
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BACKLOG%20TOTAL.png)
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe :
 
