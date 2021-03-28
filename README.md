@@ -14,7 +14,7 @@ ________________________________________________________________________________
 Nos deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Requisitos do Projeto 🧭:
-- Ter uma base CRUD ( Create, Read, Update, Delete)
+- Ter uma base CRUD (Create, Read, Update, Delete)
 - Montar uma Dashboard de fácil entendimento que demosntre o status dos Projetos, tais comos horas acessadas, atividades finalizadas e em andamento
 
 ___________________________________________________________________________________________________________________________________________________________________________________
