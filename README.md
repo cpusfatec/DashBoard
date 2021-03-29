@@ -6,6 +6,8 @@ Criação de um dashboard com informações resumidas dos andamentos dos projeto
 
 ### GIF do progresso do Projeto:
 
+Confira [AQUI](https://github.com/cpusfatec/CRUD/tree/main/Codigos/json) o código de execução.
+
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif) [Clique aqui para acessar](http://cpu.rf.gd/json/)
 
 ### Template :
