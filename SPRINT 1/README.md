@@ -6,6 +6,10 @@ Primeira sprint, tivemos contato com o representante da GSW que nos apresentou a
 
 Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é ativada ao digitar no campo de pesquisa, a função filtra os arquivos com a palavra chave escrita nesse campo e exibe as informações em um formato de tabela, que disponibilizamos online através do link: http://cpu.rf.gd/json/. Também criamos os wireframes do projeto. 
 
+# Burndown sprint 1:
+
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BURNDOWN%20SPRINT%201%20(att).png)
+
 # Wireframes:
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
