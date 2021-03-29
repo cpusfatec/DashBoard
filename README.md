@@ -20,7 +20,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Requisitos do Projeto 🧭:
 - Ter uma base CRUD (Create, Read, Update, Delete)
-- Montar uma Dashboard de fácil entendimento que demosntre o status dos Projetos, tais comos horas acessadas, atividades finalizadas e em andamento
+- Montar uma Dashboard de fácil entendimento que demonstre o status dos Projetos, tais comos horas acessadas, atividades finalizadas e em andamento
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Metodologia 📂:
