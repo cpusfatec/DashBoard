@@ -22,7 +22,7 @@ ________________________________________________________________________________
 [SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Cronograma e Sprints :
+# Cronograma e Sprints:
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/main/SPRINT%201)
 - [ ] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._]()
@@ -39,12 +39,12 @@ _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/linha%20do%20tempo.png)
 
 __________________________________________________________________________________________________________________________________________________________________________________
-# Tecnologias e Ferramentas utilizadas:
+# Tecnologias e Ferramentas Utilizadas:
 HTML, CSS, JavaScript
 Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Backlog :
+# Backlog:
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BACKLOG%20TOTAL.png)
@@ -56,7 +56,7 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BURNDOWN%20SPRINT%201.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Equipe :
+# Equipe:
 
 #### :mortar_board: Rafael Pinto Cajé - Product Owner
 - [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b/) | [Guithub](https://github.com/Rafael-Caje) | 📧: rafael.caje@fatec.sp.gov.br
