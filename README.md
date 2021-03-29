@@ -15,7 +15,7 @@ _Para saber mais sobre o progresso, acesse as Sprints !_
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
- deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
+ Nos deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Requisitos do Projeto 🧭:
