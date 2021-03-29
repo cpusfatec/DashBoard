@@ -2,7 +2,7 @@
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/GSW%20-%20Logo1.png) "GSW é uma empresa especializada em gerar soluções para o gerenciamento e controle de processos e negócios. Referência no desenvolvimento de soluções em Tecnologia da Informação, oferece a seus clientes sistemas de TI que se traduzem em melhorias significativas para o dia a dia do negócio, principalmente no que se refere à redução de custos e ao aumento da produtividade."
 ___________________________________________________________________________________________________________________________________________________________________________________
 # O Projeto 🖥️:
-Criação de um dashboard com informações resumidas dos andamentos dos projetos. 
+Criação de um CRUD que apresente o dashboard com informações resumidas do andamento dos projetos da empresa GSW.
 
 ### GIF do progresso do Projeto:
 
