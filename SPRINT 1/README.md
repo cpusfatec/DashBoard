@@ -9,3 +9,5 @@ Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é 
 # Wireframes:
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
+
+link: https://www.figma.com/file/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC
