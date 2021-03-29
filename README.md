@@ -6,10 +6,10 @@ Criação de um dashboard com informações resumidas dos andamentos dos projeto
 
 ### GIF do progresso do Projeto:
 
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif) [Clique aqui para acessar](http://cpu.rf.gd/json/)
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif)link: http://cpu.rf.gd/json/
 
 ### Template :
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)Veja o template no [FIGMA](https://www.figma.com/file/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC)
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)Veja o template que fizemos para o futuro design do CRUD: https://www.figma.com/file/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC
 
 _Para saber mais sobre o progresso, acesse as Sprints !_
 
