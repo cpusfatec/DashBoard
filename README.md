@@ -9,6 +9,9 @@ Criação de um dashboard com informações resumidas dos andamentos dos projeto
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif)link: http://cpu.rf.gd/json/
 
 _Para saber mais sobre o progresso, acesse as Sprints !_
+
+### Template :
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)Veja o template que fizemos para o futuro design do CRUD: https://www.figma.com/file/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
 Nos deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
