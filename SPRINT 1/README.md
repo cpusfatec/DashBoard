@@ -14,4 +14,4 @@ Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é 
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
 
-link: https://www.figma.com/file/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC
+[Acesse clicando aqui](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
