@@ -13,7 +13,7 @@ Criação de um dashboard com informações resumidas dos andamentos dos projeto
 
 _Para saber mais sobre o progresso, acesse as Sprints !_
 
-> O andamento do Projeto está sendo documentado, veja a documentação [AQUI](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/DOCUMENTA%C3%87%C3%83O%20SP1.pdf)
+> O andamento do Projeto está sendo documentado, veja a documentação [AQUI](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/DOCUMENTA%C3%87%C3%83O%20SP1.pdf).
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
