@@ -83,7 +83,7 @@ ________________________________________________________________________________
 - [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5/) | [Guithub](https://github.com/Felippe27) | 📧: felippe.luna@fatec.sp.gov.br
 
 #### :mortar_board: Gabriel de Oliveira - Time de Desenvolvimeto
-- [Linkedin]() | [Guithub](https://github.com/gabrielg5s) | 📧: gabriel.oliveira234@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/) | [Guithub](https://github.com/gabrielg5s) | 📧: gabriel.oliveira234@fatec.sp.gov.br
 
 #### :mortar_board: Kleber Apolinario Junior - Time de Desenvolvimento
 - [Linkedin]() | [Guithub](https://github.com/Kleber61808594) | 📧: kleber.apolianario@fatec.sp.gov.br
