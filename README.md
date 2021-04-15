@@ -15,5 +15,3 @@ Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
 
 [Acesse clicando aqui](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
-
-[Verifique a documentação do nosso projeto aqui](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/DOCUMENTAÇÃO%20SP1.pdf)
