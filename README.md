@@ -1,17 +1,14 @@
 # Sprint 2
 
-Primeira sprint, tivemos contato com o representante da GSW que nos apresentou a ideia do produto desejado, uma dashboard com informações resumidas, da execução projetos que estão sendo feitos. Para isso, nos deram 2 tipos diferentes de arquivos com informações do andamento dos projetos que estão sendo feitos para empresas, como por exemplo, se já foram finalizados, quanto tempo cada pessoa levou trabalhando no projeto, etc.
+Após o feedback dado pelo cliente, resolvemos fazer algumas alterações nos wireframes e prosseguir com a criação de novas funções para a Dashboard, tais como edição de arquivos e login do administrador para melhor segurança dos dados, segue o backlog com as ideias para a segunda entrega do projeto: (foto do backlog)
 
-![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/backlog%20sprint%201.png)
+Além do login, as funcionalidades que conseguimos para essa entrega são:
+Editar e Apagar os dados já recebidos. (gif do login e outro apresentando os  botões de editar e apagar. Não necessariamente clicar no apagar e no editar, apenas mostrar que existe)
 
-Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é ativada ao digitar no campo de pesquisa, a função filtra os arquivos com a palavra chave escrita nesse campo e exibe as informações em um formato de tabela, que disponibilizamos online através do link: http://cpu.rf.gd/json/. Também criamos os wireframes do projeto. 
+# Burndow Sprint 2
 
-# Burndown sprint 1:
+(burndown da sprint 2)
 
-![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/BURNDOWN%2001%20FINAL.png)
+# Wireframes
 
-# Wireframes:
-
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
-
-[Acesse clicando aqui](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
+(gif dos Wireframes atualizados)
