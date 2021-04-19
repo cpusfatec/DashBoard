@@ -1,14 +1,17 @@
 # Sprint 2
 
-Após o feedback dado pelo cliente, resolvemos fazer algumas alterações nos wireframes e prosseguir com a criação de novas funções para a Dashboard, tais como edição de arquivos e login do administrador para melhor segurança dos dados, segue o backlog com as ideias para a segunda entrega do projeto: (foto do backlog)
+Após o feedback dado pelo cliente, fizemos ajustes nos wireframes e prosseguimos no desenvolvimento das funcionalidades essenciais já aprovadas no backlog, tais como login para proteção dos dados da empresa, edição de arquivos de projetos já salvos após padronização dos mesmos em um banco de dados, além de incluir as funções de adicionar um projeto novo e deletar projetos, segue o backlog da segunda entrega:
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Backlog%20Sprint%202.png)
 
-Além do login, as funcionalidades que conseguimos para essa entrega são:
-Editar e Apagar os dados já recebidos. (gif do login e outro apresentando os  botões de editar e apagar. Não necessariamente clicar no apagar e no editar, apenas mostrar que existe)
+Além do login, as funcionalidades que conseguimos para essa entrega são: Editar, Adicionar e Apagar.
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Sprint2crud.gif)
 
 # Burndow Sprint 2
 
-(burndown da sprint 2)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/burndown%20Sprint%202.png)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Velocidade%20por%20Sprint.png)
 
-# Wireframes
+# Wireframes Atualizados
+Uma projeção momentânea do que se espera de visual final para o CRUD.
 
-(gif dos Wireframes atualizados)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/WIREFRAME%20GIF.gif)
