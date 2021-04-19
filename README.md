@@ -58,7 +58,7 @@ ________________________________________________________________________________
 # Backlog:
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
 
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BACKLOG%20TOTAL.png)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/backlog%20total.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Burndown do Projeto: 
