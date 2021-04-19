@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Cronograma e Sprints:
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
-- [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/main/SPRINT%201)
+- [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/sprint-1)
 - [x] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/sprint-2)
 - [ ] Sprint 3 - 26/04/2021 a 16/05/2021 - [_ver detalhes..._]()
 - [ ] Sprint 4 - 17/05/2021 a 05/06/2021 - [_ver detalhes..._]()
