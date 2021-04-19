@@ -4,27 +4,29 @@ ________________________________________________________________________________
 # O Projeto 🖥️:
 Criação de um CRUD que apresente o dashboard dos projetos da empresa GSW.
 
-### GIF do progresso do Projeto:
+### Progresso do Projeto:
 
 Confira [AQUI](https://github.com/cpusfatec/CRUD/tree/main/Codigos/json) o código de execução.
 
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/json(GIF%20sprint%201).gif) [Clique aqui para acessar](http://cpu.rf.gd/json/)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Sprint2crud.gif)
+[Clique aqui para acessar](http://cpu.rf.gd/json/)
 
 ### Template :
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)Veja o template no [FIGMA](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/WIREFRAME%20GIF.gif)
+Veja o template no [FIGMA](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
 
-_Para saber mais sobre o progresso, acesse as Sprints !_
+_Para saber mais sobre o progresso, acesse as Sprints!_
 
 > O andamento do Projeto está sendo documentado, veja a documentação [AQUI](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/DOCUMENTA%C3%87%C3%83O%20SP1.pdf).
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
- Nos deram dois tipos de arquivos, de diferentes modelos, e pediram para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
+A empresa GSW nos deu dois tipos de arquivos, de diferentes modelos, e pediu para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Requisitos do Projeto 🧭:
-- Ter uma base CRUD (Create,Read,Update,Delete)
-- Montar uma Dashboard de fácil entendimento que demosntre o status dos Projetos, tais comos horas acessadas, atividades finalizadas e em andamento
+- Ter uma base CRUD (Create, Read, Update e Delete)
+- Montar uma Dashboard de fácil entendimento que demosntre o status e informações dos Projetos
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Metodologia 📂:
@@ -34,7 +36,7 @@ ________________________________________________________________________________
 # Cronograma e Sprints:
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/main/SPRINT%201)
-- [ ] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._]()
+- [x] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._](https://github.com/cpusfatec/CRUD/tree/sprint-2)
 - [ ] Sprint 3 - 26/04/2021 a 16/05/2021 - [_ver detalhes..._]()
 - [ ] Sprint 4 - 17/05/2021 a 05/06/2021 - [_ver detalhes..._]()
 - [ ] Apresentação Final - 07/06/2021 a 11/06/2021
@@ -59,11 +61,16 @@ O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/BACKLOG%20TOTAL.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Burndown : 
+# Burndown do Projeto: 
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown do projeto até o presente momento:
 
+### Burndown da Sprint 1
 ![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/BURNDOWN%2001%20FINAL.png)
 ![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/backlog%20sprint%201.png)
+
+### Burndown da Sprint 2
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/burndown%20Sprint%202.png)
+![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Backlog%20Sprint%202.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe:
