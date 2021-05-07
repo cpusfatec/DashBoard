@@ -52,6 +52,9 @@ _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto
 __________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas Utilizadas:
 HTML, CSS, JavaScript, PHP e MySQL
+
+![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/tecnologias_ok-removebg-preview.png)
+
 Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
