@@ -15,3 +15,7 @@ Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/FIGMA/▶-GSW-FATEC.gif)
 
 [Acesse clicando aqui](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
+
+# Resultado da entrega
+
+A nossa equipe obteve sucesso nessa entrega, agora precisamos focar na próxima Sprint para entregar todas as funcionalidades que prometemos.
