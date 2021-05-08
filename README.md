@@ -15,3 +15,7 @@ Além do login, as funcionalidades que conseguimos para essa entrega são: Edita
 Uma projeção momentânea do que se espera de visual final para o CRUD.
 
 ![](https://github.com/cpusfatec/CRUD/blob/sprint-2/WIREFRAME%20GIF.gif)
+
+# Resultado da entrega 
+
+A nossa equipe não obteve sucesso nessa Sprint, pois fugimos da proposta de entrega, fizemos um produto diferente do que era desejado pelo cliente. Para isso, iremos remover os erros, manter os acertos e focar em uma boa entrega para a próxima Sprint.
