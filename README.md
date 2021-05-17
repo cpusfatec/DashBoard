@@ -38,7 +38,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Feira de Soluções - 14/06/2021 a 18/06/2021
 
 
-![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/Story%20Cards.jpg)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png)
 
 _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto_
 
@@ -69,6 +69,12 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ### Burndown da Sprint 2
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/burndown%20Sprint%202.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Backlog%20Sprint%202.png)
+
+
+### Burndown da Sprint 2
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20sprint%203.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/backlog%203.png)
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe:
