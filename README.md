@@ -56,7 +56,7 @@ ________________________________________________________________________________
 # Backlog:
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
 
-![](https://github.com/cpusfatec/CRUD/blob/sprint-2/backlog%20total.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/BACKLOG%20TOTAL%20atualizado.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Burndown do Projeto: 
@@ -70,8 +70,7 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/burndown%20Sprint%202.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Backlog%20Sprint%202.png)
 
-
-### Burndown da Sprint 2
+### Burndown da Sprint 3
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20sprint%203.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/backlog%203.png)
 
