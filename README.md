@@ -6,10 +6,10 @@ Sprint feita a partir do feedback do cliente. Na sprint passada nos equivocamos 
 Wireframes já atualizados e, nessa entrega, procuramos manter o mais fiel possível do projeto original:
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/GIF-FIGMA-SPRINT-3.gif)
 
-# Backlog Sprint 2
+# Backlog Sprint 3
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/backlog%203.png)
 
-# Burndow Sprint 2
+# Burndow Sprint 3
 
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20sprint%203.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/velocidade%20sprint%203.png)
