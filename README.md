@@ -62,18 +62,8 @@ ________________________________________________________________________________
 # Burndown do Projeto: 
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown do projeto até o presente momento:
 
-### Burndown da Sprint 1
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%201/BURNDOWN%2001%20FINAL.png)
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%201/backlog%20sprint%201.png)
-
-### Burndown da Sprint 2
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/burndown%20Sprint%202.png)
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Backlog%20Sprint%202.png)
-
-### Burndown da Sprint 3
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20sprint%203.png)
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/backlog%203.png)
-
+### Burndown do Projeto
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20total.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe:
