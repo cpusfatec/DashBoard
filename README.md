@@ -9,7 +9,7 @@ Wireframes j√° atualizados e, nessa entrega, procuramos manter o mais fiel poss√
 # Backlog Sprint 3
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/backlog%203.png)
 
-# Burndow Sprint 3
+# Burndown Sprint 3
 
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20sprint%203.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/velocidade%20sprint%203.png)
