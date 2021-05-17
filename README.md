@@ -21,3 +21,5 @@ Uma projeção momentânea do que se espera de visual final para o CRUD.
 # Resultado da entrega 
 
 A nossa equipe não obteve sucesso nessa Sprint, pois fugimos da proposta de entrega, fizemos um produto diferente do que era desejado pelo cliente. Para isso, iremos remover os erros, manter os acertos e focar em uma boa entrega para a próxima Sprint.
+
+
