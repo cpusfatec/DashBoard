@@ -13,7 +13,7 @@ Uma projeção momentânea do que se espera de visual final para o CRUD.
 # Backlog Sprint 2
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Backlog%20Sprint%202.png)
 
-# Burndow Sprint 2
+# Burndown Sprint 2
 
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/burndown%20Sprint%202.png)
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Velocidade%20por%20Sprint.png)
