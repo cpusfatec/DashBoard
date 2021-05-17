@@ -8,11 +8,12 @@ Criação de uma Dashboard de fácil entendimento que demosntre o status e infor
 
 Confira [AQUI](https://github.com/cpusfatec/CRUD/tree/main/Codigos/json) o código de execução.
 
-![](https://github.com/cpusfatec/CRUD/blob/sprint-2/Sprint2crud.gif)
-[Clique aqui para acessar](http://cpu.rf.gd/json/)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/DASHBOARD%20SPRINT%203.gif)
+[*Clique aqui para acessar](http://cpu.rf.gd/json/)
+> * Requer usuário e senha, solicitar acesso aos alunos
 
 ### Template :
-![](https://github.com/cpusfatec/CRUD/blob/sprint-2/WIREFRAME%20GIF.gif)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/GIF-FIGMA-SPRINT-3.gif)
 Veja o template no [FIGMA](https://www.figma.com/proto/YhIwrAkBAsLSshpLw75Ihk/GSW-FATEC?node-id=4%3A158&scaling=min-zoom&page-id=0%3A1)
 
 _Para saber mais sobre o progresso, acesse as Sprints!_
