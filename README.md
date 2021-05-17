@@ -68,7 +68,7 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 
 ### Burndown da Sprint 2
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/burndown%20Sprint%202.png)
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Velocidade%20por%20Sprint.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%202/Backlog%20Sprint%202.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe:
