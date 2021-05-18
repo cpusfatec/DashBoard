@@ -12,7 +12,7 @@ Primeira sprint, tivemos contato com o representante da GSW que nos apresentou a
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/SPRINT%201/backlog%20sprint%201.png)
 
-Nossa atitude para essa sprint foi, criar uma função para cada arquivo que é ativada ao digitar no campo de pesquisa, a função filtra os arquivos com a palavra chave escrita nesse campo e exibe as informações em um formato de tabela, que disponibilizamos online através do link: http://cpu.rf.gd/json/. Também criamos os wireframes do projeto. 
+Nossa atitude para essa sprint foi criar uma função para cada arquivo que é ativada ao digitar no campo de pesquisa, a função filtra os arquivos com a palavra chave escrita nesse campo e exibe as informações em um formato de tabela, que disponibilizamos online através do link: http://cpu.rf.gd/json/. Também criamos os wireframes do projeto. 
 
 # Burndown Sprint 1:
 
