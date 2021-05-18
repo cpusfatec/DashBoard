@@ -2,7 +2,7 @@
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/GSW%20-%20Logo1.png) "GSW é uma empresa especializada em gerar soluções para o gerenciamento e controle de processos e negócios. Referência no desenvolvimento de soluções em Tecnologia da Informação, oferece a seus clientes sistemas de TI que se traduzem em melhorias significativas para o dia a dia do negócio, principalmente no que se refere à redução de custos e ao aumento da produtividade."
 ___________________________________________________________________________________________________________________________________________________________________________________
 # O Projeto 🖥️:
-Criação de uma Dashboard de fácil entendimento que demosntre o status e informações dos Projetos
+Criação de uma Dashboard de fácil entendimento que demonstre o status e informações dos Projetos
 
 ### Progresso do Projeto:
 
@@ -22,7 +22,7 @@ _Para saber mais sobre o progresso, acesse as Sprints!_
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
-A empresa GSW nos deu dois tipos de arquivos, de diferentes modelos, e pediu para criarmos um software que unifique os dados de ambas fontes, e com isso, um dashboard para a análise desses dados.
+A empresa GSW nos deu dois tipos de arquivos, de diferentes modelos, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Metodologia 📂:
