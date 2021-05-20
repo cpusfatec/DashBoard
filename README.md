@@ -29,7 +29,7 @@ ________________________________________________________________________________
 [SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Cronograma e Sprints:
+# Cronograma e Sprints ⏰:
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/DashBoard-GSW/tree/sprint-1)
 - [x] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._](https://github.com/cpusfatec/DashBoard-GSW/tree/sprint-2)
@@ -46,7 +46,7 @@ _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/Linha%20do%20tempo.png)
 
 __________________________________________________________________________________________________________________________________________________________________________________
-# Tecnologias e Ferramentas Utilizadas:
+# Tecnologias e Ferramentas Utilizadas 🧰:
 HTML, CSS, JavaScript, PHP e MySQL
 
 ![](https://github.com/cpusfatec/CRUD/blob/main/Imagens/tecnologias_ok-removebg-preview.png)
@@ -54,20 +54,20 @@ HTML, CSS, JavaScript, PHP e MySQL
 Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Backlog:
+# Backlog 📰:
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
 
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/BACKLOG%20TOTAL%20atualizado.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Burndown do Projeto: 
+# Burndown do Projeto 📉:
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown do projeto até o presente momento:
 
 ### Burndown do Projeto
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20total.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-# Equipe:
+# Equipe 👥:
 
 #### :mortar_board: Rafael Pinto Cajé - Product Owner
 - [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b/) | [Guithub](https://github.com/Rafael-Caje) | 📧: rafael.caje@fatec.sp.gov.br
