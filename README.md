@@ -14,3 +14,4 @@ Wireframes já atualizados e, nessa entrega, procuramos manter o mais fiel poss�
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/velocidade%20sprint%203.png)
 
 # Resultado da entrega 
+A nossa equipe obteve sucesso nessa entrega, agora precisamos focar na próxima Sprint para entregar todas as funcionalidades que prometemos.
