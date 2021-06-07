@@ -9,3 +9,10 @@ Ultima sprint, reta final, hora de focar nos detalhes e na entrega do produto fi
 
 # Importante: 
 Um dos nosso objetivos para essa entrega era o Gráfico de Horas, no qual mostraria as horas em atividade de cada funcionário, porém ouveram alguns imprevistos, e infelizmente, não conseguimos criar esse gráfico de maneira funcional e eficaz, por conta disso, decidimos remover este gráfico da nossa DashBoard.
+
+# Backlog Sprint 4
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/bck%20sprint%204.png)
+
+# Burndown Sprint 4
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20sprint4.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project1.png)
