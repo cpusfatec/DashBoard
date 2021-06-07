@@ -1,5 +1,5 @@
 # Sprint 4
-Ultima sprint, reta final, hora de focar nos detalhes e na entrega do produto final. Para essa entrega, focamos no visual e no "plus", como entrega de um visual que tenha identificação com a empresa e manual de utilização.
+Ultima sprint, momento de dedicar aos detalhes de acabamento e funcionalidades que atendam as expectativas do cliente para o produto final. Para essa entrega, foi feita uma remodelagem visual e acrescentamos o gráfico de análise de projetos por empresas, além de um manual de utilização.
 ![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif)
 
 # Wireframes:
