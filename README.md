@@ -43,7 +43,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 
 _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto_
 
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/Linha%20do%20tempo.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/Linha%20do%20tempo.png)
 
 __________________________________________________________________________________________________________________________________________________________________________________
 # Tecnologias e Ferramentas Utilizadas 🧰:
@@ -57,14 +57,14 @@ ________________________________________________________________________________
 # Backlog 📰:
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
 
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/BACKLOG%20TOTAL%20atualizado.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Burndown do Projeto 📉:
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown do projeto até o presente momento:
 
 ### Burndown do Projeto
-![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/burndown%20total.png)
+![](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Equipe 👥:
