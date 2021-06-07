@@ -34,7 +34,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [x] Sprint 1 - 08/03/2021 a 28/03/2021 - [_ver detalhes..._](https://github.com/cpusfatec/DashBoard-GSW/tree/sprint-1)
 - [x] Sprint 2 - 29/03/2021 a 18/04/2021 - [_ver detalhes..._](https://github.com/cpusfatec/DashBoard-GSW/tree/sprint-2)
 - [X] Sprint 3 - 26/04/2021 a 16/05/2021 - [_ver detalhes..._](https://github.com/cpusfatec/DashBoard-GSW/tree/sprint-3)
-- [ ] Sprint 4 - 17/05/2021 a 05/06/2021 - [_ver detalhes..._]()
+- [x] Sprint 4 - 17/05/2021 a 07/06/2021 - [_ver detalhes..._]()
 - [ ] Apresentação Final - 07/06/2021 a 11/06/2021
 - [ ] Feira de Soluções - 14/06/2021 a 18/06/2021
 
