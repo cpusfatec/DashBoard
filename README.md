@@ -1,6 +1,6 @@
 
 # O Projeto 🖥️:
-Criação de uma Dashboard de fácil entendimento que demonstre o status e informações dos Projetos
+Criação de uma Dashboard de fácil entendimento que demonstre o status e informações dos Projetos.
 
 ### Progresso do Projeto:
 
